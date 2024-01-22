@@ -16,3 +16,5 @@ Customização
 Você pode personalizar o projeto de acordo com suas necessidades. Altere o arquivo style.css para ajustar o estilo da aplicação ou faça modificações no arquivo script.js para aprimorar a lógica da calculadora.
 
 Espero que esta calculadora seja útil para você e que possa ser adaptada conforme necessário. Se tiver alguma sugestão ou feedback, por favor, compartilhe!
+
+OBS: Tanto o CSS quanto o Js foram utilizado Compressão.
